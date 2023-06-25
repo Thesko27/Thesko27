@@ -10,6 +10,9 @@ I love working on the front end because it allows me to combine my creativity wi
 # 💻 Tech Stack
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/8bdfbae5-0657-4b35-9da6-5c7d4914db70"  width="100px" />
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/b811a240-f07c-410e-91e3-3b27e78dd488"  width="100px" />
+<img src="https://github.com/Thesko27/Thesko27/assets/120025557/6f6cb135-94da-4925-b9b2-c205cc1944fd"  width="100px" />
+
+
 
 
 # 🌐 Socials:
