@@ -18,4 +18,4 @@ I love working on the front end because it allows me to combine my creativity wi
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=thesko27&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
