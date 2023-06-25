@@ -8,7 +8,9 @@ My primary focus is front-end development, where I specialize in creating user-f
 I love working on the front end because it allows me to combine my creativity with problem solving skills to deliver exceptional user experiences.
 
 # 💻 Tech Stack
+<img src="https://github.com/Thesko27/Thesko27/assets/120025557/8bdfbae5-0657-4b35-9da6-5c7d4914db70"  width="100px" />
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/b811a240-f07c-410e-91e3-3b27e78dd488"  width="100px" />
+
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kibumLaura) 
