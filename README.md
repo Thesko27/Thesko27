@@ -14,6 +14,7 @@ I love working on the front end because it allows me to combine my creativity wi
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/b811a240-f07c-410e-91e3-3b27e78dd488"  width="100px" heigh="50"/>
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/6f6cb135-94da-4925-b9b2-c205cc1944fd"  width="100px" heigh="50"/>
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/df985cc4-45b7-45b8-bd22-a112833116ff"  width="100px" heigh="50"/>
+<img src="https://github.com/Thesko27/Thesko27/assets/120025557/234f5ffb-0d9d-4a53-8cee-7fa0bbab7da1"  width="100px" heigh="50"/>
 
 
 
