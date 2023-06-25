@@ -12,9 +12,13 @@ I love working on the front end because it allows me to combine my creativity wi
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/891c8e9e-ae34-4dcd-95a0-d2170f8e78bf"  width="100px" heigh="50"/>
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/8bdfbae5-0657-4b35-9da6-5c7d4914db70"  width="100px" heigh="50"/>
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/b811a240-f07c-410e-91e3-3b27e78dd488"  width="100px" heigh="50"/>
-<img src="https://github.com/Thesko27/Thesko27/assets/120025557/6f6cb135-94da-4925-b9b2-c205cc1944fd"  width="100px" heigh="50"/>
+<img src="https://github.com/Thesko27/Thesko27/assets/120025557/569afe71-2c1e-42f8-9777-69765fb3435d"  width="80px" heigh="50"/>
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/df985cc4-45b7-45b8-bd22-a112833116ff"  width="100px" heigh="50"/>
 <img src="https://github.com/Thesko27/Thesko27/assets/120025557/43f1c94a-30a3-4557-ae6e-95bdfd999afb"  width="80px" heigh="30"/>
+
+
+![sass](https://github.com/Thesko27/Thesko27/assets/120025557/569afe71-2c1e-42f8-9777-69765fb3435d)
+
 
 
 
