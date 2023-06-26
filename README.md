@@ -1,41 +1,50 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Francisco+Da+Silva;I'm+38+years+old;I+am+from+Aparecida+de+Goiânia,+GO;I+study+development+Fullstack+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thesko27&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=ff1493&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesko27&layout=compact&hide_border=true&title_color=00ff00&text_color=ff1493&bg_color=0d1117" />
+</div>
 
-I'm Francisco, a passionate software developer and technology enthusiast. I currently work as a Frontend Software Developer.
-With over 1 year of experience in the field, I've had the opportunity to work on many exciting projects and explore different technologies.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thesko27&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-# 🚀 Expertise
-My primary focus is front-end development, where I specialize in creating user-friendly, interactive web applications. I have extensive knowledge of HTML, CSS, JavaScript and Typescript, and I am proficient in popular frameworks and libraries such as React .
-I love working on the front end because it allows me to combine my creativity with problem solving skills to deliver exceptional user experiences.
-
-# 💻 Tech Stack
-
-<img src="https://github.com/Thesko27/Thesko27/assets/120025557/891c8e9e-ae34-4dcd-95a0-d2170f8e78bf"  width="100px" heigh="50"/>
-<img src="https://github.com/Thesko27/Thesko27/assets/120025557/8bdfbae5-0657-4b35-9da6-5c7d4914db70"  width="100px" heigh="50"/>
-<img src="https://github.com/Thesko27/Thesko27/assets/120025557/b811a240-f07c-410e-91e3-3b27e78dd488"  width="100px" heigh="50"/>
-<img src="https://github.com/Thesko27/Thesko27/assets/120025557/d4e839c2-acdc-421a-bbaf-aca97d4eb452"  width="80px" heigh="50"/>
-<img src="https://github.com/Thesko27/Thesko27/assets/120025557/df985cc4-45b7-45b8-bd22-a112833116ff"  width="100px" />
-<img src="https://github.com/Thesko27/Thesko27/assets/120025557/43f1c94a-30a3-4557-ae6e-95bdfd999afb"  width="80px" />
-
-
-
-
+### 🚀 Skills:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
+### ⚙️ Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+  
+### 👩‍💻 Studying in this moment:
+![Type](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Vie](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 
 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thesko27}/count.svg" /></p> 
+<br></div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
 
 
 
-
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kibumLaura) 
-
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauragrassig&theme=neon&hide_border=false"  width="400px" />
-
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=thesko27&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
