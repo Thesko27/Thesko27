@@ -6,6 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesko27&layout=compact&hide_border=true&title_color=00ff00&text_color=ff1493&bg_color=0d1117" />
 </div>
 
+##
 
 
 ### 🚀 Skills:
