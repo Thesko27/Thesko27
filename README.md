@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
+
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Francisco+S.+Santos;I'm+39+years+old;I+am+from+Aparecida+de+Goiânia,+GO;Full-Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Óla👋,+meu+nome+e+Francisco+S.+Santos;Tenho+39+anos,;sou+de+Aparecida+de+Goiânia,+GO;+estudo+Engenharia+de+software,+dev+Full-Stack+;Seja+Bem+vindos!+:%29)](https://git.io/typing-svg)
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thesko27&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=ff1493&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+ 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesko27&layout=compact&hide_border=true&title_color=00ff00&text_color=ff1493&bg_color=0d1117" />
 </div>
 
@@ -47,7 +47,7 @@
 
 
 ##
-![Snake animation](https://www.linkedin.com/in/franciscossantos27/)
+
 
 
 
@@ -56,7 +56,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thesko27}/count.svg" /></p> 
 <br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
+
 
 
 
