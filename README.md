@@ -1,6 +1,6 @@
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Óla👋,+meu+nome+e+Francisco+S.+Santos;Tenho+39+anos,;sou+de+Aparecida+de+Goiânia,+GO;+estudo+Engenharia+de+software,+dev+Full-Stack+;Seja+Bem+vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Óla👋,+meu+nome+e+Francisco+S.+Santos;Tenho+39+anos,;sou+de+Aparecida+de+Goiânia,+GO;+estudo+engenharia+de+software,+dev+Full-Stack+;Seja+Bem+vindos!+:%29)](https://git.io/typing-svg)
 <div align="center">  
  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesko27&layout=compact&hide_border=true&title_color=00ff00&text_color=ff1493&bg_color=0d1117" />
